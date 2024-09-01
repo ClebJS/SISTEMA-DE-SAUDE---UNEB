@@ -17,5 +17,9 @@ Este processo consiste na melhora da forma como você interage com serviços de 
 
 ## Autores
 
+- 
 - [@eduardapastore](https://www.github.com/eduardapastore)
+-
+-
+-
 
